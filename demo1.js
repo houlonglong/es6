@@ -3,5 +3,6 @@
  */
 require('es6-shim');
 
-console.log(a);
+
 let  a =100
+console.log(a);
